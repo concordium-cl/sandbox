@@ -20,13 +20,21 @@ We encourage you to use our [public key](#public-key) when sending sensitive inf
 
 You'll receive a response to your email after we had time to carefully assess you report. If applicable, a new [security advisory](https://github.com/concordium-cl/sandbox/security/advisories) will be opened and all further communication will proceed there with you as invited collaborator.
 
-Before writing to us, please check [scope](#scope), [out of scope](#out-of-scope), [rules](#rules), and previously published [security advisories](https://github.com/concordium-cl/sandbox/security/advisories).
+Before writing to us, please check [scope](#scope), [out of scope](#out-of-scope), and previously published [security advisories](https://github.com/concordium-cl/sandbox/security/advisories).
 
 **Thank you!**
 
 ## Scope
+- Concordium network and nodes
+- Concordium client
+- Smart contract framework
+- Mobile wallets
+- Desktop wallet
+
 ## Out of Scope
-## Rules
+- Network dashboard
+- Node dashboard
+- Concordium websites https://concordium.com/ and https://developers.concordium.com/ and other infrastructure such as email
 
 ## Public Key
 ```
