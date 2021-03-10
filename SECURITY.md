@@ -1,12 +1,14 @@
 # Security Policy
 
-We appreciate your time and effort in responsibly reporting any security vulnerabilities you may find on our blockchain or related tooling.
+We appreciate your time and effort in responsibly reporting any security vulnerabilities you may find on our blockchain or in the related tooling.
 
 ## Reporting a Vulnerability
 
-Please write an email to <security@concordium.com>. Do not create a public bug ticket mentioning the vulnerability or discuss it publically before we got the chance to fix it.
+**Please write an email to <security@concordium.com>.**
 
-Please include the following information in your report:
+Do not create a public bug ticket mentioning the vulnerability or discuss it publically before we got the chance to fix it.
+
+Your mail report should include the following information:
 - github user name
 - description of the vulnerability
 - potential impact
