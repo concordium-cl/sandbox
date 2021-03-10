@@ -22,7 +22,7 @@ You'll receive a response to your email after we had time to carefully assess yo
 
 Before writing to us, please check [scope](#scope), [out of scope](#out-of-scope), and previously published [security advisories](https://github.com/concordium-cl/sandbox/security/advisories).
 
-:pray: **Thank you.** :pray:
+:pray: **Thank you** :pray:
 
 
 ## Scope
