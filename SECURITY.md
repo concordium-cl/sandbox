@@ -9,12 +9,12 @@ We appreciate your time and effort in responsibly reporting any security vulnera
 Do not create a public bug ticket mentioning the vulnerability or discuss it publically before we got the chance to fix it.
 
 Your mail report should include the following information:
-- **Description of the vulnerability**
-- **Clear steps to reproduce**
-- Potential impact
-- Attack scenario (if any)
-- Affected components
-- Github username
+- **description of the vulnerability**
+- **clear steps to reproduce**
+- potential impact
+- attack scenario (if any)
+- affected components
+- github username
 
 We encourage you to use our [public key](#public-key) when sending sensitive information.
 
@@ -24,17 +24,48 @@ Before writing to us, please check [scope](#scope), [out of scope](#out-of-scope
 
 **Thank you!**
 
+
 ## Scope
-- Concordium network and nodes
-- Concordium client
-- Smart contract framework
-- Mobile wallets
-- Desktop wallet
+- Concordium Node software
+- Concordium Wallet Proxy Service
+- Concordium Client
+- Concordium Smart Contracts
+- Concordium Mobile Reference Wallet (iOS / Android)
+- Concordium Desktop Wallet
+
 
 ## Out of Scope
 - Network dashboard
 - Node dashboard
 - Concordium websites https://concordium.com/ and https://developers.concordium.com/ and other infrastructure such as email
+- Concordium Node Dashboard UI
+- Concordium Network Dashboard UI
+
+
+## Eligibility 
+
+Generally speaking, we appreciate it very much of being informed about bugs that poses a significant vulnerability to the security or integrity of the Concordium Network. Anything which has the potential for financial loss or data breach is of highest interest, including:
+
+- implementation bugs that can lead to financial loss
+- access to our production servers
+- unintended Remote Code Execution
+- protocol bugs
+- crash bug in Concordium Node (i.e. a bug that can crash the app by sending a special request, not by sending thousands requests).
+
+However, we will not prioritize bugs of the following form: 
+
+- SPF/DMARC records
+- CORS headers on endpoints meant to be accessible from other domains
+- issues with 3rd party services we use
+- vulnerabilities in 3rd party libraries without working exploits against our apps/servers
+- version disclosure
+- lack of security headers
+- cookies without the secure flag
+- vulnerabilities on sites hosted by third parties unless they lead to a vulnerability on the main website
+- vulnerabilities contingent on physical attack, social engineering, spamming, DDOS attack, etc
+- vulnerabilities affecting outdated or unpatched browsers
+- vulnerabilities in third party applications that make use of Concordium’s API
+
 
 ## Public Key
 ```
