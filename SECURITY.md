@@ -14,7 +14,7 @@ Your mail report should include the following information:
 - potential impact
 - attack scenario (if any)
 - affected components
-- github user name
+- github username
 
 We encourage you to use our [public key](#public-key) when sending sensitive information.
 
