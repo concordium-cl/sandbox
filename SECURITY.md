@@ -9,12 +9,12 @@ We appreciate your time and effort in responsibly reporting any security vulnera
 Do not create a public bug ticket mentioning the vulnerability or discuss it publically before we got the chance to fix it.
 
 Your mail report should include the following information:
-- **description of the vulnerability**
-- **clear steps to reproduce**
-- potential impact
-- attack scenario (if any)
-- affected components
-- github username
+- **Description of the vulnerability**
+- **Clear steps to reproduce**
+- Potential impact
+- Attack scenario (if any)
+- Affected components
+- Github username
 
 We encourage you to use our [public key](#public-key) when sending sensitive information.
 
