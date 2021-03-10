@@ -50,7 +50,7 @@ Generally speaking, we appreciate it very much for being informed about bugs tha
 - access to our production servers
 - unintended Remote Code Execution
 - protocol bugs
-- crash bug in Concordium Node (i.e. a bug that can crash the app by sending a special request, not by sending thousands requests).
+- crash bug in Concordium Node (i.e. a bug that can crash the app by sending a special request, not by sending thousands requests)
 
 However, we will not prioritize bugs of the following form: 
 
