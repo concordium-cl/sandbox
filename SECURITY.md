@@ -11,11 +11,11 @@ Do not create a public bug ticket mentioning the vulnerability or discuss it pub
 Your mail report should include the following information:
 - github user name
 - description of the vulnerability
+- **clear steps to reproduce**
 - potential impact
 - attack scenario (if any)
 - affected components
-- clear steps to reproduce
-
+-
 You'll receive a response to your email after we had time to carefully assess you report. If applicable, a new [security advisory](https://github.com/concordium-cl/sandbox/security/advisories) will be opened and all further communication will proceed there with you as an invited collaborator.
 
 We encourage to use our [public key](#public-key) when sending sensitive information.
