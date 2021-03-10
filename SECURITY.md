@@ -44,7 +44,7 @@ Before writing to us, please check [scope](#scope), [out of scope](#out-of-scope
 
 ## Eligibility 
 
-Generally speaking, we appreciate it very much of being informed about bugs that poses a significant vulnerability to the security or integrity of the Concordium Network. Anything which has the potential for financial loss or data breach is of highest interest, including:
+Generally speaking, we appreciate it very much for being informed about bugs that pose a significant vulnerability to the security or integrity of the Concordium Network. Anything which has the potential for financial loss or data breach is of highest interest, including:
 
 - implementation bugs that can lead to financial loss
 - access to our production servers
