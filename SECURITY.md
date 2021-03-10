@@ -16,9 +16,9 @@ Your mail report should include the following information:
 - affected components
 - github user name
 
-You'll receive a response to your email after we had time to carefully assess you report. If applicable, a new [security advisory](https://github.com/concordium-cl/sandbox/security/advisories) will be opened and all further communication will proceed there with you as an invited collaborator.
-
 We encourage to use our [public key](#public-key) when sending sensitive information.
+
+You'll receive a response to your email after we had time to carefully assess you report. If applicable, a new [security advisory](https://github.com/concordium-cl/sandbox/security/advisories) will be opened and all further communication will proceed there with you as invited collaborator.
 
 Before writing to us, please check [scope](#scope), [out of scope](#out-of-scope), [rules](#rules), and previously published [security advisories](https://github.com/concordium-cl/sandbox/security/advisories).
 
