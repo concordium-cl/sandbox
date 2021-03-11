@@ -14,6 +14,4 @@ assignees: ''
 - [ ] subtask 2
 - [ ] subtask 3
 
-*Add label for 
-- component
-- priority*
+*Add label for component and priority.*
