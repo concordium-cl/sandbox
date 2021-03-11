@@ -9,11 +9,11 @@ assignees: ''
 
 **Task description**
 
-**Sub-tasks*
+**Sub-tasks**
 [ ] subtask 1
 [ ] subtask 2
 [ ] subtask 3
 
-Add label for 
+_Add label for 
 * component
-* priority
+* priority_
