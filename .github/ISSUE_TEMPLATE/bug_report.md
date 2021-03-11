@@ -3,7 +3,7 @@ name: Bug Report
 about: If you have found a bug, please create a bug report.
 title: ''
 labels: "[B] bug"
-assignees: concordium-cl
+assignees: ''
 
 ---
 
