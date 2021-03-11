@@ -1,9 +1,9 @@
 ---
 name: Task
-about: "(INTERNAL USE) To create a task, please use type task."
+about: "[INTERNAL USE] To create a task, please use type task."
 title: ''
 labels: "[T] task"
-assignees: ''
+assignees: concordium-cl
 
 ---
 
