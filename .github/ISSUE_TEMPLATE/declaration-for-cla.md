@@ -2,7 +2,7 @@
 name: declaration for CLA
 about: Describe this issue template's purpose here.
 title: 'declaration '
-labels: declaration
+labels: ''
 assignees: concordium-cl
 
 ---
