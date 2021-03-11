@@ -10,10 +10,10 @@ assignees: ''
 **Task description**
 
 **Sub-tasks**
-[ ] subtask 1
-[ ] subtask 2
-[ ] subtask 3
+- [ ] subtask 1
+- [ ] subtask 2
+- [ ] subtask 3
 
-_Add label for 
-* component
-* priority_
+*Add label for 
+- component
+- priority*
