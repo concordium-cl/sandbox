@@ -1,8 +1,8 @@
 ---
-name: Improvement report
-about: To suggest an improvement, please create an improvement report.
+name: Bug report
+about: If you have found a bug, please create a bug report.
 title: ''
-labels: "[R] improvement"
+labels: ''
 assignees: ''
 
 ---
